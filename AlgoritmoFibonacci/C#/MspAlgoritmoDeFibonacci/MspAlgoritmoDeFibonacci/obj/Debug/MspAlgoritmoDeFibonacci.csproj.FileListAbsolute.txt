@@ -1,0 +1,6 @@
+c:\users\miki\documents\visual studio 2015\Projects\MspAlgoritmoDeFibonacci\MspAlgoritmoDeFibonacci\bin\Debug\MspAlgoritmoDeFibonacci.exe.config
+c:\users\miki\documents\visual studio 2015\Projects\MspAlgoritmoDeFibonacci\MspAlgoritmoDeFibonacci\obj\Debug\MspAlgoritmoDeFibonacci.csprojResolveAssemblyReference.cache
+c:\users\miki\documents\visual studio 2015\Projects\MspAlgoritmoDeFibonacci\MspAlgoritmoDeFibonacci\bin\Debug\MspAlgoritmoDeFibonacci.exe
+c:\users\miki\documents\visual studio 2015\Projects\MspAlgoritmoDeFibonacci\MspAlgoritmoDeFibonacci\bin\Debug\MspAlgoritmoDeFibonacci.pdb
+c:\users\miki\documents\visual studio 2015\Projects\MspAlgoritmoDeFibonacci\MspAlgoritmoDeFibonacci\obj\Debug\MspAlgoritmoDeFibonacci.exe
+c:\users\miki\documents\visual studio 2015\Projects\MspAlgoritmoDeFibonacci\MspAlgoritmoDeFibonacci\obj\Debug\MspAlgoritmoDeFibonacci.pdb
